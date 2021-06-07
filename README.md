@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CHECKOUT THIS PROJECT AT https://vabvgoyal.github.io/tensorJsObjectDetect/
 
 ## Available Scripts
 
