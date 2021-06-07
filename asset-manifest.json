@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tensorJsObjectDetect/static/css/main.7f904051.chunk.css",
+    "main.js": "/tensorJsObjectDetect/static/js/main.1de8d97a.chunk.js",
+    "main.js.map": "/tensorJsObjectDetect/static/js/main.1de8d97a.chunk.js.map",
+    "runtime-main.js": "/tensorJsObjectDetect/static/js/runtime-main.01a137bd.js",
+    "runtime-main.js.map": "/tensorJsObjectDetect/static/js/runtime-main.01a137bd.js.map",
+    "static/js/2.598297bb.chunk.js": "/tensorJsObjectDetect/static/js/2.598297bb.chunk.js",
+    "static/js/2.598297bb.chunk.js.map": "/tensorJsObjectDetect/static/js/2.598297bb.chunk.js.map",
+    "index.html": "/tensorJsObjectDetect/index.html",
+    "precache-manifest.fffca91e13ccab3e4b32adf076ac49fb.js": "/tensorJsObjectDetect/precache-manifest.fffca91e13ccab3e4b32adf076ac49fb.js",
+    "service-worker.js": "/tensorJsObjectDetect/service-worker.js",
+    "static/css/main.7f904051.chunk.css.map": "/tensorJsObjectDetect/static/css/main.7f904051.chunk.css.map",
+    "static/js/2.598297bb.chunk.js.LICENSE.txt": "/tensorJsObjectDetect/static/js/2.598297bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a137bd.js",
+    "static/js/2.598297bb.chunk.js",
+    "static/css/main.7f904051.chunk.css",
+    "static/js/main.1de8d97a.chunk.js"
+  ]
+}
